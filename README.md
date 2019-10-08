@@ -1,4 +1,4 @@
-# Mars_Lander
+# Mars Lander
 My solution contains code to simulate the motion of a rover that can orbit / land on Mars. Some unique features of the solution include:
 1. An option to switch to either Euler or Vertlet integration methods during the game by pressing the ’i’ key on the keyboard.
 2. Enhanced autopilot that can automatically deploy a parachute at lower altitudes when the software deems it safe to be able to do so. This ensures that the autopilot works in all the scenarios 0-6.
