@@ -5,3 +5,9 @@ My solution contains code to simulate the motion of a rover that can orbit / lan
 3. Modelling of an aerostationary orbit.
 4. Possibility of any-angle attitude control in the plane of the orbit. This can be done by pressing the ’/’ or the ’.’ keys on the keyboard for rotation in either direction. These keys, like the thrust keys, are disabled if the attitude stabilizer or the autopilot is switched on.
 5. Basic modelling of random wind gusts. The software contains a random wind generator that can be enabled or disabled by pressing the ’W’ key.
+
+# Running the lander
+1) To run the game, run the following command on terminal
+``
+g++ foo.cpp
+``
