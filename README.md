@@ -9,5 +9,9 @@ My solution contains code to simulate the motion of a rover that can orbit / lan
 # Running the lander
 1) To run the game, run the following command on terminal
 ``
-g++ foo.cpp
+g++ lander.cpp
+``
+This will produce an executable file called a.out, which you can run by typing this in your terminal:
+`` 
+./a.out
 ``
