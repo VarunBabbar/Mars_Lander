@@ -7,10 +7,13 @@ My solution contains code to simulate the motion of a rover that can orbit / lan
 5. Basic modelling of random wind gusts. The software contains a random wind generator that can be enabled or disabled by pressing the ’W’ key.
 
 # Running the lander
-1) To run the game, run the following command on terminal
+
+To run the game, run the following command on terminal
+
 ``
 g++ lander.cpp
 ``
+
 This will produce an executable file called a.out, which you can run by typing this in your terminal:
 `` 
 ./a.out
